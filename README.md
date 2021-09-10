@@ -18,3 +18,8 @@
 
 - Web
 
+### 설문조사를 통한 여행지 추천
+<img width="80%" src="https://user-images.githubusercontent.com/54983764/132822339-99fd8f49-0972-4773-b1fa-bbb966373b86.gif"/>
+
+### 이미지를 통해 비슷한 장소 추천
+<img width="80%" src="https://user-images.githubusercontent.com/54983764/132822573-c183369d-239b-4f21-b088-4e6962303f58.gif"/>
