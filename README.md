@@ -10,7 +10,21 @@
   1. 따뜻한 나라로 가서 활동적인 여행을 즐기고 싶지만 그 나라가 우기인지 아닌지 혹은 즐길 만한 요소들이 충분한지에 대해서 직접 알아봐야하는 번거로움이 있습니다. 그러나 VoyageGayage 서비스를 이용한다면 개인의 여행 스타일을 고려한 여행지 추천과 함께 여행지에 대한 정보도 한번에 확인 할 수 있습니다.
 
   2. 여행이 대중화 됨에 따라 유명한 관광지는 관광객들로 붐벼 기대한만큼 즐기거나 쉬고 오지 못하는 경우가 있습니다. 이에 많은 사람들이 알지 못하는 여행지를 찾아가려 하고 있습니다. 이러한 사람들의 성향에 맞춰 가려던 유명한 여행지와 비슷한 대안의 여행지를 추천 받으실 수 있습니다.
+  
+-------------------------
+- 사용 기술
 
+
+      AWS Lambda
+      AWS Sagemaker
+      AWS Rekognition
+      AWS Cognito, Api-gateway
+      AWS S3, DynamoDB
+      Beautifulsoup
+      Google geocoding, place API
+      Firebase Real-time DB
+    
+    
 - Framework
 
 <img width="80%" src="https://user-images.githubusercontent.com/54983764/132698531-7262ec00-05aa-4234-a633-d726aedda713.png"/>
