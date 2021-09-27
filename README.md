@@ -25,6 +25,18 @@
       Firebase Real-time DB
     
     
+- 나의 역할 (팀원:5명)
+
+
+      프레임워크 설계
+      설문조사를 통한 데이터 수집
+      DB, Storage에 데이터 저장
+      AWS Sagemaker 사용하여 ML 구현
+      서비스 상호작용을 위한 AWS Lambda 구현
+      ML 점진적 학습 구현
+      Google API 사용하여 추천 UI 구현
+    
+    
 - Framework
 
 <img width="80%" src="https://user-images.githubusercontent.com/54983764/132698531-7262ec00-05aa-4234-a633-d726aedda713.png"/>
