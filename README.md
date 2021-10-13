@@ -25,7 +25,7 @@
       Firebase Real-time DB
     
     
-- 나의 역할 (팀원:5명)
+- 담당
 
 
       프레임워크 설계
